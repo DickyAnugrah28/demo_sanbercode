@@ -1,0 +1,26 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "description": "sanber-api-automation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "\\]"
+  },
+  "repository": {
+    "type": "git",
+    "url": "demo_sanbercode"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.3",
+    "jsonschema": "^1.4.1",
+    "supertest": "^6.3.4"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.1",
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3"
+  }
+}
